@@ -3,5 +3,5 @@ def fact(n):
         return 1
     return n*fact(n-1)
 
-result=fact(int(input("Enter the Number to find Factoial Boss   :  ")))
+result=fact(int(input("Enter the Number to find Factoial   :  ")))
 print(result)
